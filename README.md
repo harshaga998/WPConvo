@@ -1,4 +1,4 @@
-# WPConvo2
+# WPConvo
 
 ### Too lazy to save a contact?
 WPConvo provides you the easiest way to start conversation or send messages on whatsapp to an unsaved contact in your phonebook. Just follow three simple steps:
