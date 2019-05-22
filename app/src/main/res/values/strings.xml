@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WPConvo</string>
+    <string name="welcome">WPConvo</string>
+    <string name="number">Enter Number…</string>
+    <string name="message">Enter Message…</string>
+    <string name="tagline">Send Whatsapp messages to unsaved contacts</string>
+    <string name="myname">Developed By - Harsh Agarwal\n\n</string>
+    <string name="go">GO</string>
+    <string name="about">Too lazy to save a contact? WPConvo provides you the easiest way to start conversation or send messages on whatsapp to an unsaved contact in your phonebook. Just follow three simple steps:\n\n\n 1. Select your country code.\n 2. Enter the valid phone number.\n 3. Enter a message (optional) and send. </string>
+    <string name="note">*Note: You need an active Internet Connection*</string>
+    <string name="endnote">This app does not collect any user data.</string>
+    <string name="connection">Check your Internet Connection!</string>
+</resources>
